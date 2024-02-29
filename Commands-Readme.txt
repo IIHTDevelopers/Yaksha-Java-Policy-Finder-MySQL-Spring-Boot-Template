@@ -5,6 +5,8 @@
 
 	java -jar <your application jar file name>
 
+* Please use 127.0.0.1 instead of localhost to test rest endpoints.
+
 * Default credentials for MySQL:
 	Username: root
 	Password: pass@word1
